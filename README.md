@@ -52,4 +52,4 @@ pip install opencv-python easyocr tensorflow
 
   **Contact**
 For any inquiries, please contact:
-Email: `worksandeep22@gmail.com`
+Email: `rakeshjoshi954896@gmail.com`
