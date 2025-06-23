@@ -1,1 +1,1 @@
-# -item-textbf-PlateSight---Automatic-Number-Plate-Recognition-System-
+# PlateSight---Automatic-Number-Plate-Recognition-System-
